@@ -1,0 +1,188 @@
+body
+{
+    background:linear linear-gradient(180deg ,rgb(194, 194, 218),rgb(138, 138, 212));
+    align-items: center;
+}
+
+div.a{
+
+    background-color: white;
+    border:.2px solid #cedb91;
+    margin-left: 15%; 
+    margin-right: 15%; 
+    margin-top:3%;
+    padding-bottom: 12px; 
+    border-radius: 12px;
+}
+div.y:hover{
+    color: #333;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    cursor: pointer;
+}
+div.x:hover{
+    color: #333;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    color: #0099ff;
+}
+
+div>input
+{
+    border-radius: 10%;
+    font-size:70%;
+    color: #260707;
+     padding: 2%;
+    margin-top: 3%;
+    margin-bottom: 15px;
+    margin-right: 30%;
+    margin-left: 30%;
+    text-align: center;
+     border-color: #ddd;
+    border-width: 5px;
+    width: 450px; 
+}
+
+div>input.user{
+    margin-top: 1%;
+}
+
+
+div.b
+{
+    background-color: white;
+    text-align: center;
+    border: 2px solid #ccc;
+     margin-left: 15%; 
+    margin-right: 15%;
+    margin-top:2%;
+    padding: 3%;
+    font-size: 95%; 
+
+}
+div.b:hover{
+    cursor: pointer;
+}
+
+div.b>span{
+    color: #333;
+    font-weight: normal;
+}
+
+div.b.b
+{
+    color: #0099ff;
+}
+
+div.c
+{
+    text-align: center;
+    font-size: 83%;
+    color: #333;
+}
+div.c:hover{
+    cursor: pointer;
+    color: #0099ff;
+}
+button.btn
+{
+    width: 75%;
+    color: white;
+    font-size: 90%;
+    padding: 1%;
+    border-radius: 10%;
+    border-color: white;
+    background-color: #99ccfb;
+    margin-left: 15%; 
+    margin-right: 15%; 
+    margin-top:3%;
+    padding-bottom: 12px; 
+    border-radius: 12px;
+}
+button.btn:hover{
+    cursor: pointer;
+}
+
+nav{
+    padding-top: 12%;
+    text-align: center;
+}
+
+nav>a{
+text-decoration: none;
+color: #888;
+padding-right: 3%;
+font-size: 90%;
+}
+nav>a:hover{
+    color: #7295b6;
+}
+
+footer
+{
+    text-align: center;
+    font-size:90%;
+    color: #888;
+    padding-top: 5%;
+}
+
+footer>span.e{
+    padding-left:2%;
+    font-weight: normal;
+}
+
+select{
+    background-color: #eee;
+    appearance: none;
+    border-style: none;
+    font-weight: normal;
+    outline :0;
+    color: #888;
+    font-size: 80%;
+}
+
+hr{
+    display: inline-block;
+    color: red;
+    align-items: center;
+}
+div.div.x
+{
+    display: inline;
+    color: red;
+    align-items: center;
+}
+
+span
+{
+    color: #888;
+    font-size: 85%;
+    font-style: bold;
+    padding: 3%;
+    font-weight: bolder;
+    align-items: center;
+}
+
+span.x
+{
+    color: #559;
+    font-weight: bold;
+    margin-left: 1%;
+    align-items: center;
+}
+
+
+span.y
+{
+    color: #559;
+    font-size: 80%;
+    align-items: center;
+    padding-bottom: 20%;
+}
+
+
+
