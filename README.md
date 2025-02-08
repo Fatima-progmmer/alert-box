@@ -25,7 +25,7 @@ alert-box/
 3. Click the buttons to see different alert boxes in action!  
 
 ## 🖥️ Demo  
-[Live Preview (if hosted)](your-live-preview-link-here)  
+[Live Preview (if hosted)]((https://fatima-progmmer.github.io/alert-box/))
 
 ## 🎯 Technologies Used  
 - HTML  
